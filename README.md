@@ -1,6 +1,6 @@
 3-Clause BSD License:
 
-Copyright 2023 under the names of: "FancyRat", "Fancy Rat", "FancyRatGames","FancyRat Games", "Fancy Rat Games" or similar.
+Copyright 2023 under the names of: "FancyRat", "Fancy Rat", "FancyRatGames","FancyRat Games", "Fancy Rat Games", "RatFancy Games", "RatFancy" or similar.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
